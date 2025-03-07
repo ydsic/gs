@@ -1,0 +1,280 @@
+{
+    "": [
+      {
+        "heightReference": "위에서부터",
+        "name": "크라운 산도밤",
+        "keywords": ["과자"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "후렌치파이초코",
+        "keywords": ["과자", "초콜릿"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "오징어게임 달고나팝콘",
+        "keywords": ["과자", "팝콘"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "버터와플 3000",
+        "keywords": ["과자", "와플"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "초코틴인틴",
+        "keywords": ["과자", "초콜릿"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "롯데 제로초코파이",
+        "keywords": ["과자", "초콜릿"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "땅콩강정",
+        "keywords": ["과자", "견과류"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "크라운 화이트하임 3300",
+        "keywords": ["과자"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "크라운 초코하임 3300",
+        "keywords": ["과자", "초콜릿"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "오리온 비쵸비 5p 125g",
+        "keywords": ["과자", "초콜릿"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "롯데 몽쉘생크림",
+        "keywords": ["과자"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "배스킨라빈스 꼬다리콘 초콜릿무스",
+        "keywords": ["과자", "초콜릿"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "배스킨라빈스 꼬다리콘 스트로베리",
+        "keywords": ["과자"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "크라운 쿠크다스 3000",
+        "keywords": ["과자"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "톡톡우유맛캔디",
+        "keywords": ["사탕"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "크라운 산도 딸기 161g",
+        "keywords": ["과자"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "크라운 빅파이 3200",
+        "keywords": ["과자"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "생레몬구미 70g",
+        "keywords": ["젤리"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "모둠젤리",
+        "keywords": ["젤리"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "해태 후렌치파이딸기 192g",
+        "keywords": ["과자"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "해태 오예스",
+        "keywords": ["과자", "초콜릿"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "찰떡파이복숭아",
+        "keywords": ["과자"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "오리온 카스타드 276g",
+        "keywords": ["과자"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "해태 버터링 65g",
+        "keywords": ["과자"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "오리온 초코파이 468g",
+        "keywords": ["과자", "초콜릿"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "롯데 마가렛트 3300",
+        "keywords": ["과자"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "빅파이 영동포도",
+        "keywords": ["과자"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "후렌치 파이애플",
+        "keywords": ["과자"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "롯데 초코파이",
+        "keywords": ["과자", "초콜릿"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "오리온 초코파이 하우스 초코&크림",
+        "keywords": ["과자", "초콜릿"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "오리온 초코파이 하우스 딸기&크림",
+        "keywords": ["과자"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "오리온 참붕어빵 4200",
+        "keywords": ["과자"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "유어스 네일리무버",
+        "keywords": ["화장품"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "데오화이트",
+        "keywords": ["화장품"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "니베아 SOS핸드크림",
+        "keywords": ["화장품"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "존슨즈 화이트 후레쉬로션",
+        "keywords": ["화장품"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "아비노 데일리로션",
+        "keywords": ["화장품"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "메디힐 핸드크림 플로럴레드",
+        "keywords": ["화장품"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "핸드워시상",
+        "keywords": ["세면용품"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "세균아꼼짝마 핸드워시",
+        "keywords": ["세면용품"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "니베아 크림",
+        "keywords": ["화장품"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "닥터지 브라이트닝",
+        "keywords": ["화장품"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "치클린 초코베리",
+        "keywords": ["껌"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "치클린 화이트",
+        "keywords": ["껌"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "프리미엄 훼이셜티슈 280매",
+        "keywords": ["화장지"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "유어스 롤티슈 2롤",
+        "keywords": ["화장지"],
+        "height": 1
+      }
+    ]
+  }

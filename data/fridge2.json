@@ -1,0 +1,382 @@
+{
+  "": [
+    {
+      "heightReference": "위에서부터",
+      "name": "엑스파니아 500ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "칭따오 500ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "구스아일랜드 IPA 500ml",
+      "keywords": ["맥주", "IPA"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카브루 키이로유자사와 355ml",
+      "keywords": ["사와", "과일"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "로얄오크하이볼 500ml",
+      "keywords": ["하이볼"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "크러시 500ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카스 500ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "칭따오논알콜릭레몬 330ml",
+      "keywords": ["맥주", "무알콜", "과일맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "리얼하이볼진저 330ml",
+      "keywords": ["하이볼"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "에반버번하이볼레몬 330ml",
+      "keywords": ["하이볼"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카스레몬스퀴즈제로 330ml",
+      "keywords": ["맥주", "무알콜", "과일맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카스 0.0캔 355ml",
+      "keywords": ["맥주", "무알콜"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "아사히생맥주 340ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "하이네켄 330ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "써머스비 330ml",
+      "keywords": ["사이더"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "리얼레몬하이볼 355ml",
+      "keywords": ["하이볼"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "한맥 355ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "오비라거 330ml",
+      "keywords": ["맥주", "라거"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스텔라 330ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "호가든 330ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "짐빔하이볼자몽 350ml",
+      "keywords": ["하이볼"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스마일 레몬슬라이스소다 340ml",
+      "keywords": ["소다"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "우량하이볼 오리지널 330ml",
+      "keywords": ["하이볼"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "우량하이볼 레몬 330ml",
+      "keywords": ["하이볼"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카브루 츄잉하이볼 밀키소다 355ml",
+      "keywords": ["하이볼"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카발란드라이 320ml",
+      "keywords": ["위스키"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카스라이트 355ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "테라라이트 355ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "테라 355ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "켈리 355ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "보해복분자 375ml",
+      "keywords": ["과실주"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "청하병 300ml",
+      "keywords": ["청주"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "매화수 300ml",
+      "keywords": ["청주"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "로제청하스파클링 295ml",
+      "keywords": ["청주", "스파클링"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "별빛청하스파클링 295ml",
+      "keywords": ["청주", "스파클링"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "원소주스피릿 375ml",
+      "keywords": ["소주"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "진로 KITH 360ml",
+      "keywords": ["소주"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "진로 토닉워터 600ml",
+      "keywords": ["토닉워터"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "IGIN애플토닉 달콤 500ml",
+      "keywords": ["토닉워터"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "IGIN애플토닉 새콤 500ml",
+      "keywords": ["토닉워터"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "1664블랑 330ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "참이슬 오리지널병 360ml",
+      "keywords": ["소주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "참이슬 후레쉬병 360ml",
+      "keywords": ["소주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "새로 살구병 360ml",
+      "keywords": ["소주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "새로병 360ml",
+      "keywords": ["소주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "처음처럼병 360ml",
+      "keywords": ["소주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "진로병 360ml",
+      "keywords": ["소주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "화요 25도 375ml",
+      "keywords": ["소주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "백세주 375ml",
+      "keywords": ["약주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "참이슬 오리지널 640ml",
+      "keywords": ["소주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "참이슬 후레쉬 640ml",
+      "keywords": ["소주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "처음처럼 640ml",
+      "keywords": ["소주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "새로 640ml",
+      "keywords": ["소주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "진로 640ml",
+      "keywords": ["소주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "톡쏘는 알밤동동 750ml",
+      "keywords": ["막걸리"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "장수 생막걸리 750ml",
+      "keywords": ["막걸리"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "달빛유자막걸리 750ml",
+      "keywords": ["막걸리"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "크러시 1.6L",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "카스라이트 1.6L",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "카스 1.6L",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "테라라이트 1.6L",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "한맥 1.6L",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "연태고량주 250ml",
+      "keywords": ["고량주"],
+      "height": 1
+    }
+  ]
+}

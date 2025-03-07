@@ -1,0 +1,628 @@
+{
+    "": [
+      {
+        "heightReference": "위에서부터",
+        "name": "프레첼 모양 젤리",
+        "keywords": ["젤리"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "치즈케이크 아몬드 초코볼 41g",
+        "keywords": ["초콜릿", "견과류"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터", 
+        "name": "투유 초콜릿 1500",
+        "keywords": ["초콜릿"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "허쉬 초코바이츠솔티드카라멜3",
+        "keywords": ["초콜릿", "카라멜"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "닥터유단백질볼",
+        "keywords": ["과자", "영양간식"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "오리온 톡핑 헤이즐넛&그래놀라",
+        "keywords": ["과자", "견과류"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "오리온 톡핑 피넛&허니",
+        "keywords": ["과자", "견과류"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하리보 골드바렌 2000",
+        "keywords": ["젤리"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하리보 피치 2000",
+        "keywords": ["젤리"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하리보 스타믹스 2000",
+        "keywords": ["젤리"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하리보 푸르티부시 2000",
+        "keywords": ["젤리"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "트롤리키스젤리 2500",
+        "keywords": ["젤리"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "베리베리스트로베리초코볼 32g",
+        "keywords": ["초콜릿"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "엄마는외계인초코볼 32g",
+        "keywords": ["초콜릿"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "M&MS 피넛초콜릿 37g",
+        "keywords": ["초콜릿", "견과류"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "M&MS 크리스피 37g",
+        "keywords": ["초콜릿"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "M&MS 블록밀크 37g",
+        "keywords": ["초콜릿"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "크런키 초콜릿 34g",
+        "keywords": ["초콜릿"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하리보 골드베어사우어 2000",
+        "keywords": ["젤리"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하리보 해피콜라 2000",
+        "keywords": ["젤리"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하리보 그레이프 2000",
+        "keywords": ["젤리"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하리보 계란후라이 2000",
+        "keywords": ["젤리"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "트롤리 퍼니벌스사우어 2500",
+        "keywords": ["젤리"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "가나마일드 70g",
+        "keywords": ["초콜릿"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "가나밀크 70g",
+        "keywords": ["초콜릿"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "린도볼밀크 3p",
+        "keywords": ["초콜릿"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "린도볼밀크 4p",
+        "keywords": ["초콜릿"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "마카다미아초코",
+        "keywords": ["초콜릿", "견과류"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "트롤리캔디바나나 2500",
+        "keywords": ["젤리"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "피니 해피믹스",
+        "keywords": ["젤리"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하리보 베렌트",
+        "keywords": ["젤리"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "트롤리 애플링스 2500",
+        "keywords": ["젤리"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "트롤리 사우어글로웜즈 2500",
+        "keywords": ["젤리"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "허쉬 초코바이츠쿠키앤크림 36g",
+        "keywords": ["초콜릿", "쿠키"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "허쉬 다크석류",
+        "keywords": ["초콜릿"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "밀타초코슈프림",
+        "keywords": ["초콜릿"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "밀카요거트 100g",
+        "keywords": ["초콜릿"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "우주모양미니젤",
+        "keywords": ["젤리"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "아이셔젤리",
+        "keywords": ["젤리"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "서요구르트소다",
+        "keywords": ["젤리"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "트롤리 애플팝스",
+        "keywords": ["젤리"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "탱글탱글포도",
+        "keywords": ["젤리"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "허쉬 밀크초콜릿 40g",
+        "keywords": ["초콜릿"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "허쉬 아몬드초콜릿 40g",
+        "keywords": ["초콜릿", "견과류"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하쉬 쿠키앤초코",
+        "keywords": ["초콜릿", "쿠키"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "해태 연양갱 900",
+        "keywords": ["과자"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "까먹는오션젤리",
+        "keywords": ["젤리"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "피치 라바삭젤리석류맛",
+        "keywords": ["젤리"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "웨이롱곤약향라맛",
+        "keywords": ["과자"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "웨이롱곤약마라맛",
+        "keywords": ["과자"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "선우 가재맛 마라곤약",
+        "keywords": ["과자"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "선우 가재맛 마늘곤약",
+        "keywords": ["과자"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "피쉬모양젤리",
+        "keywords": ["젤리"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "하리보 스위트박스",
+        "keywords": ["젤리"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "감동란계란과자",
+        "keywords": ["과자"],
+        "height": 6
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "짱구 21곡 치즈바",
+        "keywords": ["과자"],
+        "height": 6
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "짱구 21곡 초코바",
+        "keywords": ["과자", "초콜릿"],
+        "height": 6
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "코피코 슈가프리커피블리스터",
+        "keywords": ["사탕"],
+        "height": 6
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "코피코 카푸치노블리스터",
+        "keywords": ["사탕"],
+        "height": 6
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "제로유자젤리",
+        "keywords": ["젤리"],
+        "height": 6
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "킷캣 청키쿠키앤크림",
+        "keywords": ["초콜릿", "쿠키"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "킷캣 청키",
+        "keywords": ["초콜릿"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "키커바현미 1000",
+        "keywords": ["과자"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "킷캣 청키비스킷",
+        "keywords": ["초콜릿", "쿠키"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "자유시간 쿠키앤피스타치오",
+        "keywords": ["초콜릿", "쿠키", "견과류"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "자유시간 쿠키앤크림",
+        "keywords": ["초콜릿", "쿠키"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "자유시간 골드",
+        "keywords": ["초콜릿"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "스니커즈 피넛싱글 51g",
+        "keywords": ["초콜릿", "견과류"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "박카스 탱글젤리",
+        "keywords": ["젤리"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "까먹는 점보망고",
+        "keywords": ["젤리"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "오리온 자두알맹이 1200",
+        "keywords": ["젤리"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "오리온 꼬물탱 1200",
+        "keywords": ["젤리"],
+        "height": 4
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "오리온 키위알맹이 67g",
+        "keywords": ["젤리"],
+        "height": 4
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "오리온 마이구미 포도알맹이 1200",
+        "keywords": ["젤리"],
+        "height": 4
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "흔들어 차차사우",
+        "keywords": ["젤리"],
+        "height": 4
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "허쉬 너겟밀크",
+        "keywords": ["초콜릿"],
+        "height": 3
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "허쉬 너겟쿠앤크",
+        "keywords": ["초콜릿", "쿠키"],
+        "height": 3
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "M&MS 밀크초콜릿 37g",
+        "keywords": ["초콜릿"],
+        "height": 3
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "킨더 해피히포 5입",
+        "keywords": ["초콜릿"],
+        "height": 3
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "죠스바젤리 1200",
+        "keywords": ["젤리"],
+        "height": 3
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "폭신한 말랑딸기젤리",
+        "keywords": ["젤리"],
+        "height": 3
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "리찌알맹이 67g",
+        "keywords": ["젤리"],
+        "height": 3
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "아이셔 자두맛",
+        "keywords": ["젤리"],
+        "height": 3
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "아이셔 소다",
+        "keywords": ["젤리"],
+        "height": 3
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "아이셔 청사과",
+        "keywords": ["젤리"],
+        "height": 3
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "킨더 부에노 44g",
+        "keywords": ["초콜릿"],
+        "height": 2
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "아몬드 초코볼",
+        "keywords": ["초콜릿", "견과류"],
+        "height": 2
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "크런키 더블 크런치",
+        "keywords": ["초콜릿"],
+        "height": 2
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "크런키 더블 크런치쿠키앤크림",
+        "keywords": ["초콜릿", "쿠키"],
+        "height": 2
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "크런키 크런치",
+        "keywords": ["초콜릿"],
+        "height": 2
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "마이구미 복숭아",
+        "keywords": ["젤리"],
+        "height": 2
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "마이구미",
+        "keywords": ["젤리"],
+        "height": 2
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "마이구미 청포도",
+        "keywords": ["젤리"],
+        "height": 2
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "레모나 젤리블루",
+        "keywords": ["젤리"],
+        "height": 2
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "레모나 젤리샤인",
+        "keywords": ["젤리"],
+        "height": 2
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "킨더조이 보이",
+        "keywords": ["초콜릿"],
+        "height": 1
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "킨더조이 걸",
+        "keywords": ["초콜릿"],
+        "height": 1
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "피스터블 땅콩버터초콜릿",
+        "keywords": ["초콜릿", "견과류"],
+        "height": 1
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "피스터블 아몬드",
+        "keywords": ["초콜릿", "견과류"],
+        "height": 1
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "피스터블 크런치",
+        "keywords": ["초콜릿"],
+        "height": 1
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "피스터블 밀크초콜릿",
+        "keywords": ["초콜릿"],
+        "height": 1
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "프루팁스 미니",
+        "keywords": ["사탕"],
+        "height": 1
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "빵빵이모양 젤리",
+        "keywords": ["젤리"],
+        "height": 1
+        },
+        {
+        "heightReference": "아래에서부터",
+        "name": "트롤리 지구젤리",
+        "keywords": ["젤리"],
+        "height": 1
+        }
+    ]
+}

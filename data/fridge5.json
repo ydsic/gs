@@ -1,0 +1,478 @@
+{
+  "": [
+    {
+      "heightReference": "위에서부터",
+      "name": "코리안좀비 에너지드링크 망고 355ml",
+      "keywords": ["에너지드링크", "망고"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "코리안좀비 에너지드링크 멜론 355ml",
+      "keywords": ["에너지드링크", "멜론"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "동서 마스터 오리지날 블랙 240ml",
+      "keywords": ["커피", "블랙"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "동서 마스터카페라떼 240ml",
+      "keywords": ["커피", "라떼"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "동서 마스터스위트아메리카노 240ml",
+      "keywords": ["커피", "아메리카노"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스타벅스 더블에스프레소&크림 200ml",
+      "keywords": ["커피", "에스프레소"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "동아 데자와밀크티 240ml",
+      "keywords": ["차", "밀크티"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "레쓰비 카페타임라떼 240ml",
+      "keywords": ["커피", "라떼"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스타벅스 셀렉트카페라떼 300ml",
+      "keywords": ["커피", "라떼"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스타벅스 셀렉트카라멜라떼 300ml",
+      "keywords": ["커피", "라떼", "카라멜"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스타벅스 셀렉트바닐라라떼 300ml",
+      "keywords": ["커피", "라떼", "바닐라"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "조지아 오리지널 240ml",
+      "keywords": ["커피", "블랙"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "조지아 카페라떼 240ml",
+      "keywords": ["커피", "라떼"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "조지아 맥스커피 240ml",
+      "keywords": ["커피"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맥심 TOP 스모키라떼 200ml",
+      "keywords": ["커피", "라떼"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맥심 TOP 스위트아메리카노 200ml",
+      "keywords": ["커피", "아메리카노"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맥심 TOP 마스터라떼 200ml",
+      "keywords": ["커피", "라떼"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "칸타타 스위트아메리카노 200ml",
+      "keywords": ["커피", "아메리카노"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "칸타타 딥블랙 200ml",
+      "keywords": ["커피", "블랙"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "칸타타 프리미엄라떼 200ml",
+      "keywords": ["커피", "라떼"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "레쓰비 마일드 200ml",
+      "keywords": ["커피"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "조지아 리치아로마라떼 270ml",
+      "keywords": ["커피", "라떼"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "조지아 리치아로마블랙 270ml",
+      "keywords": ["커피", "블랙"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "조지아 리치아로마스위트아메리카노 270ml",
+      "keywords": ["커피", "아메리카노"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "칸타타 스위트아메리카노 275ml",
+      "keywords": ["커피", "아메리카노"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "칸타타 프리미엄라떼 275ml",
+      "keywords": ["커피", "라떼"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "칸타타 콜드브루블랙 275ml",
+      "keywords": ["커피", "콜드브루"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "칸타타 흑당라떼 275ml",
+      "keywords": ["커피", "라떼", "흑당"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맥심 TOP 마스터라떼 275ml",
+      "keywords": ["커피", "라떼"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맥심 TOP 더블랙 275ml",
+      "keywords": ["커피", "블랙"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맥심 TOP 스위트아메리카노 275ml",
+      "keywords": ["커피", "아메리카노"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맥심 TOP 스모키블랙 275ml",
+      "keywords": ["커피", "블랙"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맥심 TOP 스모키라떼 275ml",
+      "keywords": ["커피", "라떼"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맥심 TOP 돌체라떼 275ml",
+      "keywords": ["커피", "라떼"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스타벅스 더블샷 바닐라 275ml",
+      "keywords": ["커피", "바닐라"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스타벅스 더블샷 돌체라떼 275ml",
+      "keywords": ["커피", "라떼"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스타벅스 파이크 플레이스 블랙 275ml",
+      "keywords": ["커피", "블랙"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스타벅스 프라푸치노 돌체라떼 병",
+      "keywords": ["커피", "라떼"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스타벅스 프라푸치노 오리지널 병",
+      "keywords": ["커피"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스타벅스 프라푸치노 모카 병",
+      "keywords": ["커피", "모카"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "칸타타 시그니처 오트브루 340ml",
+      "keywords": ["커피"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "칸타타 시그니처 아마레또라떼 340ml",
+      "keywords": ["커피", "라떼"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "조지아 블랙 470ml",
+      "keywords": ["커피", "블랙"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "조지아 라떼 470ml",
+      "keywords": ["커피", "라떼"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "조지아 스위트 블랙 470ml",
+      "keywords": ["커피", "블랙"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "아카페라 벤티 아메리카노 600ml",
+      "keywords": ["커피", "아메리카노"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "아카페라 벤티 헤이즐넛 600ml",
+      "keywords": ["커피", "헤이즐넛"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "칸타타 콘트라베이스 블랙샷 500ml",
+      "keywords": ["커피", "블랙"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "칸타타 콘트라베이스 블랙 500ml",
+      "keywords": ["커피", "블랙"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "칸타타 콘트라베이스 라떼 500ml",
+      "keywords": ["커피", "라떼"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "레쓰비 그란데 헤이즐넛 500ml",
+      "keywords": ["커피", "헤이즐넛"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "오리온 제주용암수 530ml",
+      "keywords": ["생수"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "블랙보리 520ml",
+      "keywords": ["차"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "웅진 하늘보리 500ml",
+      "keywords": ["차"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "웅진 유기농하늘보리 500ml",
+      "keywords": ["차"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "씨그램 라임 탄산수 350ml",
+      "keywords": ["탄산수", "라임"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "초청 탄산수 500ml",
+      "keywords": ["탄산수"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "트레비 자몽 500ml",
+      "keywords": ["탄산수", "자몽"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "트레비 레몬 500ml",
+      "keywords": ["탄산수", "레몬"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "트레비 라임 500ml",
+      "keywords": ["탄산수", "라임"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "토레타 500ml",
+      "keywords": ["이온음료"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "블랙보리라이트 520ml",
+      "keywords": ["차"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "옥수수수염차 500ml",
+      "keywords": ["차"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "청보리차 500ml",
+      "keywords": ["차"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "이토엔 오이오차 녹차 525ml",
+      "keywords": ["차", "녹차"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "진한 헛개차 500ml",
+      "keywords": ["차"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터", 
+      "name": "더진한 헛개차 골드라벨 500ml",
+      "keywords": ["차"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "평창수 500ml",
+      "keywords": ["생수"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "백산수 500ml",
+      "keywords": ["생수"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "제주삼다수 500ml",
+      "keywords": ["생수"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "맑은샘물 500ml",
+      "keywords": ["생수"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "비락식혜 1.2L",
+      "keywords": ["전통음료"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "헛개수 1L",
+      "keywords": ["생수"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "블랙보리 1.5L",
+      "keywords": ["차"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "토레타 900ml",
+      "keywords": ["이온음료"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "청보리차 1.5L",
+      "keywords": ["차"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "제주 삼다수 2L",
+      "keywords": ["생수"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "유어스 DMZ 맑은 샘물 2L",
+      "keywords": ["생수"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "썬키스트 감귤 1.5L",
+      "keywords": ["과일음료", "감귤"],
+      "height": 1
+    }
+  ]
+}

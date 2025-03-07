@@ -1,0 +1,46 @@
+/* ========================= */
+/* 공통 스타일 (common.css) */
+/* ========================= */
+
+/* 기본 리셋 및 박스 모델 설정 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 공통 폰트 설정 */
+body {
+    font-family: "Noto Sans KR", sans-serif;
+    background-color: #e6f7fc;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 10px;
+}
+
+/* 공통 버튼 스타일 */
+.btn {
+    display: inline-block;
+    padding: 10px 16px;
+    font-size: 16px;
+    background-color: #0072CE;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #005EA6;
+}
+
+/* 공통 반응형 설정 */
+@media (max-width: 768px) {
+    /* 반응형 공통 스타일 */
+}
+
+@media (max-width: 480px) {
+    /* 더 작은 화면을 위한 공통 스타일 */
+}

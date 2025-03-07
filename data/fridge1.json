@@ -1,0 +1,472 @@
+{
+  "": [
+    {
+      "heightReference": "위에서부터",
+      "name": "덕덕구스 세션 IPA 500ml",
+      "keywords": ["맥주", "IPA"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카브루 25일맥주 500ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "한맥캔 500ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "스퀴즈 빽라거슈퍼 마일드캔 500ml",
+      "keywords": ["맥주", "라거"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "넷플릭스 제주라거캔 500ml",
+      "keywords": ["맥주", "라거"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "기린이치방당류제로 500ml",
+      "keywords": ["맥주", "무알콜"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "곰표밀맥주프루티 500ml",
+      "keywords": ["맥주", "밀맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "곰표밀맥주 500ml",
+      "keywords": ["맥주", "밀맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "오비 필굿캔 500ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "필라이트 후레쉬 500ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카스 레몬스퀴즈 500ml",
+      "keywords": ["맥주", "과일맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "성산일출봉에일 500ml",
+      "keywords": ["맥주", "에일"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "제주백록담에일 500ml",
+      "keywords": ["맥주", "에일"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "한옥마을에일 500ml",
+      "keywords": ["맥주", "에일"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "하이트제로 500ml",
+      "keywords": ["맥주", "무알콜"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카스라이트 500ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "카스 500ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "하이트 엑스트라 콜드 500ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "테라 500ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "테라 라이트 500ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "켈리 500ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "레몬진 9.0 500ml",
+      "keywords": ["진", "과일"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "레몬진 4.5 500ml",
+      "keywords": ["진", "과일"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "레몬진 7.0 500ml",
+      "keywords": ["진", "과일"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "크러시 500ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "클라우드 500ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "광화문 500ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "남산에일 500ml",
+      "keywords": ["맥주", "에일"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "솔의눈하이볼 500ml",
+      "keywords": ["하이볼"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "처음처럼실론티하이볼 500ml",
+      "keywords": ["하이볼"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "효민사와 500ml",
+      "keywords": ["사와"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "쿠퍼스스타우트 440ml",
+      "keywords": ["맥주", "스타우트"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "벚꽃엔딩 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "호기스블루베리매직 500ml",
+      "keywords": ["맥주", "과일맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "예거라들러레몬 500ml",
+      "keywords": ["맥주", "라들러"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "예거라들러복숭아 500ml",
+      "keywords": ["맥주", "라들러"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "써머스비망고라임 500ml",
+      "keywords": ["사이더"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "타이거레몬 500ml",
+      "keywords": ["맥주", "과일맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "에비스 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "프레시볼 라임생 500ml",
+      "keywords": ["칵테일"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "원모어유자소다 500ml",
+      "keywords": ["소다"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "아사히 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "1664로제 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "1664블랑 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "호가든로제 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "호가든 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "버드와이저 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "스텔라 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "하이네캔 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "하이네실버 500ml",
+      "keywords": ["맥주"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "카브루 카일라거 500ml",
+      "keywords": ["맥주", "라거"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "카브루 IPA 500ml",
+      "keywords": ["맥주", "IPA"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "오리온더드래프트 500ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "로얄스타우트 500ml",
+      "keywords": ["맥주", "스타우트"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "엘파 500ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "밀로제뉴인드래프트 500ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "쿠퍼스페일에일 500ml",
+      "keywords": ["맥주", "에일"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "코젤화이트 500ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "기린이치방 500ml",
+      "keywords": ["맥주"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "산미구엘페일필젠 500ml",
+      "keywords": ["맥주", "필젠"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "카브루 춘배와친구들 레몬라들러 500ml",
+      "keywords": ["맥주", "라들러"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "킬스버그 500ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "필스너 500ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "생레몬 하이볼 500ml",
+      "keywords": ["하이볼"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "생청귤 하이볼 500ml",
+      "keywords": ["하이볼"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "파울라너뮌헨라거 500ml",
+      "keywords": ["맥주", "라거"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "삿포로 500ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "척 메가사워 500ml",
+      "keywords": ["맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "기네스 흑맥주 440ml",
+      "keywords": ["맥주", "흑맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "생라임 맥주 500ml",
+      "keywords": ["맥주", "과일맥주"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "카스병 500ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "스텔라 740ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "삿포로 실버컵 650ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "하이네켄 710ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "KGB병 275ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "켈리병 500ml",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "켈리 페트병 1L",
+      "keywords": ["맥주"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "카스큐팩 1L",
+      "keywords": ["맥주"],
+      "height": 1
+    }
+  ]
+}

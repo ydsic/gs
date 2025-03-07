@@ -1,0 +1,490 @@
+{
+  "": [
+    {
+      "heightReference": "위에서부터",
+      "name": "로제불닭볶음면",
+      "keywords": ["라면", "볶음면", "매운맛"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "까르보불닭볶음면",
+      "keywords": ["라면", "볶음면", "매운맛"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "불닭볶음면",
+      "keywords": ["라면", "볶음면", "매운맛"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "충칭소면",
+      "keywords": ["라면", "중식"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "BIG 컵누들 마라탕",
+      "keywords": ["라면", "중식"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "BIG 컵누들 매콤한맛",
+      "keywords": ["라면", "매운맛"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "하오하오새우",
+      "keywords": ["라면", "해물"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "하이라디오 마라펀",
+      "keywords": ["라면", "중식"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "하이라디오 쏸라펀",
+      "keywords": ["라면", "중식"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "하이라디오 마장펀",
+      "keywords": ["라면", "중식"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "토리파이탄향라멘 (작은컵)",
+      "keywords": ["라면", "일식"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맵탱 소고기라면 (작은컵)",
+      "keywords": ["라면", "매운맛"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "맵탱 대파라면 (작은컵)",
+      "keywords": ["라면", "매운맛"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "구수한 누룽지 쌀떡국",
+      "keywords": ["라면"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "진라면 순한맛",
+      "keywords": ["라면"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "진라면 매운맛",
+      "keywords": ["라면", "매운맛"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "콕콕콕 스파게티",
+      "keywords": ["라면", "양식"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "열광라볶이",
+      "keywords": ["라면", "볶음면"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "사골쌀국수",
+      "keywords": ["라면"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "마슐랭 마라샹궈",
+      "keywords": ["라면", "중식"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "부먹밥 사골곰탕밥",
+      "keywords": ["라면"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "부먹밥 미역국밥",
+      "keywords": ["라면"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "부먹밥 짬뽕밥",
+      "keywords": ["라면", "짬뽕"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "핫청양 고춧가루",
+      "keywords": ["조미료", "매운맛"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "오모리 김치 누룽지",
+      "keywords": ["라면"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "하이라디오 마라야채간편훠궈",
+      "keywords": ["라면", "중식"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "하이라디오 토마토&야채간편훠궈",
+      "keywords": ["라면", "중식"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "오스틱",
+      "keywords": ["라면"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "얼큰해장쌀국수",
+      "keywords": ["라면"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "팔도비빔면",
+      "keywords": ["라면", "비빔면"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "감자탕라면",
+      "keywords": ["라면"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "마라쌀볶음면",
+      "keywords": ["라면", "볶음면", "중식"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "열려라 참깨라면",
+      "keywords": ["라면"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "김치유부우동",
+      "keywords": ["라면", "우동"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "진비빔면",
+      "keywords": ["라면", "비빔면"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "팔도비빔면2",
+      "keywords": ["라면", "비빔면"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "더미식오징어볶음면",
+      "keywords": ["라면", "볶음면", "해물"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "더미식오징어라면",
+      "keywords": ["라면", "해물"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "미식 장인 맵싸한맛",
+      "keywords": ["라면", "매운맛"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "공화춘 짬뽕",
+      "keywords": ["라면", "짬뽕"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "공화춘 불짜장",
+      "keywords": ["라면", "짜장", "매운맛"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "공화춘 짜장",
+      "keywords": ["라면", "짜장"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "삼양 간짬뽕",
+      "keywords": ["라면", "짬뽕"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "김치 큰사발면",
+      "keywords": ["라면"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "신라면",
+      "keywords": ["라면"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "열튀김우동",
+      "keywords": ["라면", "우동"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "짜슐랭",
+      "keywords": ["라면", "짜장"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "참깨라면",
+      "keywords": ["라면"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "신라면 툼바",
+      "keywords": ["라면"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "생생우동",
+      "keywords": ["라면", "우동"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "포띠뽀쌀국수",
+      "keywords": ["라면"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "나가사끼짬뽕",
+      "keywords": ["라면", "짬뽕"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "새우탕",
+      "keywords": ["라면", "해물"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "신라면 블랙",
+      "keywords": ["라면"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "신라면 더레드",
+      "keywords": ["라면", "매운맛"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "진짬뽕",
+      "keywords": ["라면", "짬뽕"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "사리곰탕",
+      "keywords": ["라면"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "스낵면",
+      "keywords": ["라면"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "왕뚜껑",
+      "keywords": ["라면"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "김치왕뚜껑",
+      "keywords": ["라면"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "짜파게티",
+      "keywords": ["라면", "짜장"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "튀김우동",
+      "keywords": ["라면", "우동"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "오징어짬뽕",
+      "keywords": ["라면", "짬뽕", "해물"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "잔치국수",
+      "keywords": ["라면"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "너구리",
+      "keywords": ["라면", "우동"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "열라면",
+      "keywords": ["라면", "매운맛"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "육개장 (작은컵)",
+      "keywords": ["라면"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "김치사발면 (작은컵)",
+      "keywords": ["라면"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "불닭볶음면 (작은컵)",
+      "keywords": ["라면", "볶음면", "매운맛"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "짜파게티 범벅",
+      "keywords": ["라면", "짜장"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "튀김우동 (작은컵)",
+      "keywords": ["라면", "우동"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "컵누들 매콤한맛 (작은컵)",
+      "keywords": ["라면", "매운맛"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "컵누들 마라탕 (작은컵)",
+      "keywords": ["라면", "중식"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "신라면 (작은컵)",
+      "keywords": ["라면"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "너구리 (작은컵)",
+      "keywords": ["라면", "우동"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "새우탕 (작은컵)",
+      "keywords": ["라면", "해물"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "누들핏 김치 (작은컵)",
+      "keywords": ["라면"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "누들핏 짜파구리 (작은컵)",
+      "keywords": ["라면", "짜장"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "진라면 순한맛 (작은컵)",
+      "keywords": ["라면"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "진라면 매운맛 (작은컵)",
+      "keywords": ["라면", "매운맛"],
+      "height": 1
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "참깨라면 (작은컵)",
+      "keywords": ["라면"],
+      "height": 1
+    }
+  ]
+}

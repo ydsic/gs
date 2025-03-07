@@ -1,0 +1,695 @@
+{
+    "": [
+      {
+        "heightReference": "위에서부터",
+        "name": "오마이유 유기농 탐폰 8p 레귤러",
+        "keywords": ["탐폰"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "오마이유 유기농 탐폰 8p 슈퍼",
+        "keywords": ["탐폰"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "템포 레귤러 10p",
+        "keywords": ["탐폰"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "템포 슈퍼 10p",
+        "keywords": ["탐폰"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 유기농 중 36p",
+        "keywords": ["생리대"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 유기농 대 32p",
+        "keywords": ["생리대"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "유어스 민트양 치실 500D 50m",
+        "keywords": ["치실"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "갸스비 기름종이 70매",
+        "keywords": ["기름종이"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "질레트 마하3 면도기",
+        "keywords": ["면도기"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "질레트 퓨전 메뉴얼 면도날 2입",
+        "keywords": ["면도날"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "유어스 터치쓰리 일회용면도기 1입",
+        "keywords": ["면도기"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "유어스 페이스4 일회용면도기 3입",
+        "keywords": ["면도기"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "유어스 페이스4 일회용면도기 1입",
+        "keywords": ["면도기"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "유어스 페이스6 일회용면도기 1입",
+        "keywords": ["면도기"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "유어스 페이스6 일화용면도기 6입",
+        "keywords": ["면도기"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "라엘 유기농 순면롱라이너 18p",
+        "keywords": ["라이너"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "좋은느낌 순면라이너 18p",
+        "keywords": ["라이너"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "좋은느낌 라이너오가닉 커버롱 18p",
+        "keywords": ["라이너"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "템포 내추럴 라이너롱 18p",
+        "keywords": ["라이너"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 내몸에순한면 라이너 28p",
+        "keywords": ["라이너"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 유기농무표백 라이너롱 18p",
+        "keywords": ["라이너"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 볼록 맞춤 중형 4p",
+        "keywords": ["생리대"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 내몸에순한면 대형 4p",
+        "keywords": ["생리대"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 순한면 중형 4p",
+        "keywords": ["생리대"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "페리오 듀얼클린 칫솔",
+        "keywords": ["칫솔"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "히말라야 핑크솔드 칫솔",
+        "keywords": ["칫솔"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "유어스 2080 하이브리드 칫솔",
+        "keywords": ["칫솔"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "죽염 잇몸전문 칫솔",
+        "keywords": ["칫솔"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "덴탈크리닉 2080 칫솔",
+        "keywords": ["칫솔"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "클리오 센스향균 칫솔",
+        "keywords": ["칫솔"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "생활도감 혀클리너",
+        "keywords": ["혀클리너"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "2080 컴플리트 치약&칫솔세트",
+        "keywords": ["세트"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "2080 치약&칫솔세트",
+        "keywords": ["세트"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "페리오 휴대용 치약&칫솔세트",
+        "keywords": ["세트"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 볼록맞춤 대형 16p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 볼록맞춤 중형 16p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 유기농 슈퍼롱 3p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "좋은느낌 좋은순면 수퍼롱 10p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "시크릿데이 코튼슬림핏 중형 16p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "시크릿데이 코튼슬림핏 대형 14p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "화이트 수퍼흡수 중형 18p",
+        "keywords": ["생리대"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "화이트 수퍼흡수 대형 16p",
+        "keywords": ["생리대"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 유기농 무표백 중형 4p",
+        "keywords": ["생리대"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 유기농 무표백 대형 4p",
+        "keywords": ["생리대"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 유기농 대형 4p",
+        "keywords": ["생리대"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 유기농 무표백 슈퍼롱 3p",
+        "keywords": ["생리대"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "스카트 생분해 세정티슈 60매",
+        "keywords": ["티슈"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "페리오 인텐스 치아강화 치약",
+        "keywords": ["치약"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "페리오 46cm 치약 쿨민트",
+        "keywords": ["치약"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "유어스 어드밴스 그랜드치약",
+        "keywords": ["치약"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "덴탈크리닉 2080치약",
+        "keywords": ["치약"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "애경 2080 진지발리스 K치약",
+        "keywords": ["치약"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "질레트 프로글라이드 면도기",
+        "keywords": ["면도기"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "좋은느낌 유기농순면 뉴슬날 대 14p",
+        "keywords": ["생리대"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "좋은느낌 좋은순면 울날 중 18p",
+        "keywords": ["생리대"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 순한면 대형 16p",
+        "keywords": ["생리대"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "쏘피 순한면 중형 18p",
+        "keywords": ["생리대"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "유어스 보솜이물티슈 20매",
+        "keywords": ["물티슈"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "유어스 보솜이물티슈 60매",
+        "keywords": ["물티슈"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "그린핑거 산리오물티슈 100매",
+        "keywords": ["물티슈"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "깨끗한나라 페퍼민트 물티슈 60매",
+        "keywords": ["물티슈"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "좋은느낌 유기농순면 뉴울날 중 18p",
+        "keywords": ["생리대"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "좋은느낌 유기농순면 뉴울날 대 16p",
+        "keywords": ["생리대"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "쏘피 유기농 순면커버 중형 8p",
+        "keywords": ["생리대"],
+        "height": 5
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "건강한 순수한면 소형 18p",
+        "keywords": ["생리대"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "건강한 순수한면 중형 16p",
+        "keywords": ["생리대"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "건강한 순수한면 대형 14p",
+        "keywords": ["생리대"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "쏘피 유기농슈퍼롱 10p",
+        "keywords": ["생리대"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "페넬로페 풋커버(살구)",
+        "keywords": ["풋커버"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "유어스 판타롱스타킹(커피)",
+        "keywords": ["스타킹"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "유어스 판타롱스타킹(살구)",
+        "keywords": ["스타킹"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "쟈가드쿨풋커버(살구)",
+        "keywords": ["풋커버"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "앵클삭스(살구)",
+        "keywords": ["삭스"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "비비안팬티스타킹(살구)",
+        "keywords": ["스타킹"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "여성 소프트덧신",
+        "keywords": ["덧신"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "남성 면덧신",
+        "keywords": ["덧신"],
+        "height": 4
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "순수한면 제로 대형 14p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "순수한면 제로 중형 16p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "시크릿데이 러브 중형 16p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "순수한면 오버나이트 12p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "쏘피 쿨링프레쉬 중형 4p",
+        "keywords": ["생리대"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "팬티스타킹(살구)",
+        "keywords": ["스타킹"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "밴드스타킹(살구)",
+        "keywords": ["스타킹"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "압박팬티스타킹(검정)",
+        "keywords": ["스타킹"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "사계절스타킹",
+        "keywords": ["스타킹"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "비비안압박(검정)",
+        "keywords": ["스타킹"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "3입 스타킹(살구)",
+        "keywords": ["스타킹"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "비비안 팬티스타킹(커피)",
+        "keywords": ["스타킹"],
+        "height": 3
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "좋은느낌 입는데이팬티 대형 4p",
+        "keywords": ["팬티"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "좋은느낌 입는데이팬티 중형 4p",
+        "keywords": ["팬티"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "좋은느낌 유기농순면 뉴 수퍼롱 8p",
+        "keywords": ["생리대"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "쏘피 순수한면 슈퍼롱 3p",
+        "keywords": ["생리대"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "좋은느낌 유기농순면 뉴 슬날중 14p",
+        "keywords": ["생리대"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "유어스 미니스 여행용 세면도구세트",
+        "keywords": ["세트"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "미니스 포켓몬 여행용 세면도구세트",
+        "keywords": ["세트"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "일회용 샤워세트",
+        "keywords": ["세트"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "비페스타 클렌징티슈 10매",
+        "keywords": ["티슈"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "성분에디터 그린토바토 휘핑폼 120ml",
+        "keywords": ["휘핑폼"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "온더바디 더내추럴올리브오일",
+        "keywords": ["올리브오일"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "뉴트로지나 클렌징오일",
+        "keywords": ["클렌징오일"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "클린앤클리어 훼이셜클린저",
+        "keywords": ["클렌저"],
+        "height": 2
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "쏘피 안심숙면팬티 중형 4p",
+        "keywords": ["팬티"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "쏘피 안심숙면팬티 대형 4p",
+        "keywords": ["팬티"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "쏘피 안심숙면팬티 유기농대형 4p",
+        "keywords": ["팬티"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "쏘피 안심숙면팬티 유기농중형 4p",
+        "keywords": ["팬티"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "좋은느낌 입는오버나이트 4p",
+        "keywords": ["팬티"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "좋은느낌 입는오버나이트 대형 4p",
+        "keywords": ["팬티"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "쏘피 쿨링안심숙면팬티 대형 5p",
+        "keywords": ["팬티"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "시카샴푸",
+        "keywords": ["샴푸"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "엘라스틴 프로틴볼륨샴푸",
+        "keywords": ["샴푸"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "엘라스틴 퍼퓸러브미샴푸",
+        "keywords": ["샴푸"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "오가니스트 크랜베리바디워시",
+        "keywords": ["바디워시"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "비욘드 바디워시",
+        "keywords": ["바디워시"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "질레트센서티브 스킨면도젤",
+        "keywords": ["면도젤"],
+        "height": 1
+      },
+      {
+        "heightReference": "아래에서부터",
+        "name": "리엔 흑모비책 염색약(자연갈색)",
+        "keywords": ["염색약"],
+        "height": 1
+      }
+    ]
+  }
+  

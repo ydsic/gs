@@ -1,0 +1,386 @@
+/* 관리자 페이지 스타일 */
+body {
+  background-color: #f5f5f5;
+  color: #333;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+/* 헤더 스타일 */
+.admin-header {
+  background: linear-gradient(135deg, #0072CE, #4DD5E7);
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.admin-header h1 {
+  color: white;
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 24px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* 네비게이션 스타일 */
+.admin-nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.nav-btn, .home-btn {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.nav-btn:hover, .home-btn:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.nav-btn.active {
+  background-color: white;
+  color: #0072CE;
+  font-weight: bold;
+}
+
+.home-btn {
+  background-color: #FF6B6B;
+}
+
+.home-btn:hover {
+  background-color: #FF4D4D;
+}
+
+/* 메인 콘텐츠 영역 */
+.admin-main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 탭 스타일 */
+.admin-tab {
+  display: none;
+}
+
+.admin-tab.active {
+  display: block;
+}
+
+.admin-tab h2 {
+  color: #0072CE;
+  margin-bottom: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* 컨트롤 영역 */
+.admin-controls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+
+.search-container {
+  display: flex;
+  flex: 1;
+  min-width: 200px;
+  max-width: 400px;
+}
+
+.search-container input {
+  flex: 1;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px 0 0 4px;
+  outline: none;
+}
+
+.search-container button {
+  background-color: #0072CE;
+  color: white;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.filter-container select {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  outline: none;
+  min-width: 150px;
+}
+
+/* 상품 테이블 스타일 */
+.products-table-container {
+  overflow-x: auto;
+  margin-bottom: 20px;
+}
+
+.products-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 600px;
+}
+
+.products-table th, 
+.products-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.products-table th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+  color: #0072CE;
+}
+
+.products-table tr:hover {
+  background-color: #f9f9f9;
+}
+
+.actions-cell {
+  display: flex;
+  gap: 5px;
+  justify-content: flex-start;
+}
+
+.action-btn {
+  background-color: #eee;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: all 0.3s ease;
+}
+
+.edit-btn {
+  background-color: #FFC107;
+  color: #333;
+}
+
+.edit-btn:hover {
+  background-color: #FFB300;
+}
+
+.delete-btn {
+  background-color: #FF5252;
+  color: white;
+}
+
+.delete-btn:hover {
+  background-color: #FF1744;
+}
+
+/* 페이지네이션 스타일 */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.pagination button {
+  background-color: #0072CE;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.pagination button:hover:not(:disabled) {
+  background-color: #005EA6;
+}
+
+.pagination button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.pagination span {
+  font-weight: bold;
+  color: #0072CE;
+}
+
+/* 폼 스타일 */
+.admin-form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #555;
+}
+
+.form-group input[type="text"],
+.form-group input[type="number"],
+.form-group select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.form-group input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+.form-actions {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.primary-btn {
+  background-color: #0072CE;
+  color: white;
+}
+
+.primary-btn:hover {
+  background-color: #005EA6;
+}
+
+.danger-btn {
+  background-color: #FF5252;
+  color: white;
+}
+
+.danger-btn:hover {
+  background-color: #FF1744;
+}
+
+/* 모달 스타일 */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  overflow: auto;
+}
+
+.modal-content {
+  background-color: white;
+  margin: 10% auto;
+  padding: 20px;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 600px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.modal h2 {
+  color: #0072CE;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.warning {
+  color: #FF5252;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* 메시지 스타일 */
+.loading-message,
+.error-message,
+.empty-message {
+  padding: 20px;
+  text-align: center;
+  color: #666;
+}
+
+.error-message {
+  color: #FF5252;
+}
+
+/* 반응형 스타일 */
+@media (max-width: 768px) {
+  .admin-main {
+    padding: 15px;
+  }
+  
+  .admin-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .search-container,
+  .filter-container {
+    max-width: 100%;
+  }
+  
+  .admin-form {
+    padding: 0 10px;
+  }
+  
+  .modal-content {
+    margin: 20% auto;
+    padding: 15px;
+    width: 95%;
+  }
+}
+
+@media (max-width: 480px) {
+  .admin-nav {
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  .nav-btn, .home-btn {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .form-actions {
+    flex-direction: column;
+  }
+  
+  .form-actions .btn {
+    width: 100%;
+  }
+}

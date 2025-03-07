@@ -1,0 +1,374 @@
+.main-header {
+    background: linear-gradient(135deg, #0072CE, #4DD5E7);
+    width: 100%;
+    padding: 10px 10px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+}
+
+.main-header h1 {
+    font-size: 24px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 10px #4363f5;
+}
+
+.main-search-form {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 15px;
+    gap: 8px;
+}
+
+.main-search-form input {
+    width: 100%;
+    max-width: 320px;
+    height: 40px;
+    border: 2px solid #0072CE;
+    border-radius: 8px;
+    padding: 0 15px;
+    font-size: 16px;
+    outline: none;
+    transition: 0.3s ease;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.main-search-form input::placeholder {
+    color: #bbb;
+}
+
+.main-search-form input:focus {
+    border-color: #4DD5E7;
+    box-shadow: 0px 0px 12px rgba(77, 213, 231, 0.6);
+}
+
+/* 검색 버튼 스타일 */
+.search-btn {
+    background-color: #0072CE;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 0 15px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.search-btn:hover {
+    background-color: #005EA6;
+}
+
+.main-view-sections-btn {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    display: block;
+}
+
+.main-results-container {
+    margin: 10px auto; /* 좌우 가운데 정렬 */
+    width: 100%;
+    max-width: 600px;
+    background-color: #f1fbfe;
+    border: 2px solid #4DD5E7;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px rgba(0, 114, 206, 0.2);
+    padding: 10px;
+    overflow-y: auto;
+    text-align: center;
+}
+
+.main-results-container h3 {
+    margin-bottom: 5px;
+}
+
+.main-result-item {
+    padding: 10px 15px;
+    font-size: 14px;
+    color: #0072CE;
+    background-color: #f1fbfe;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    transition: 0.3s ease;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-result-item:last-child {
+    border-bottom: none;
+}
+
+.product-name {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    padding-right: 15px;
+}
+
+.location-info {
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 120px;
+}
+
+.fridge-number {
+    color: #666;
+    font-size: 0.9em;
+}
+
+.shelf-position {
+    color: #666;
+    font-size: 0.9em;
+}
+
+/* 첫 JSON 로딩 시 표시되는 메시지 */
+.loading-message {
+    text-align: center;
+    padding: 20px;
+    font-size: 1.2em;
+    color: #666;
+}
+
+.loading-progress {
+    width: 80%;
+    max-width: 300px;
+    height: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin: 10px auto;
+    overflow: hidden;
+}
+
+.loading-bar {
+    height: 100%;
+    background-color: #4CAF50;
+    width: 0%;
+    transition: width 0.3s ease-in-out;
+}
+
+/* 모달 스타일 */
+.main-modal, .admin-modal {
+    display: none;
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.main-modal-content, .modal-content {
+    background-color: white;
+    margin: 20% auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 500px;
+    text-align: center;
+}
+
+.main-modal-content h2, .modal-content h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #0072CE;
+}
+
+.main-modal-content p, .modal-content p {
+    font-size: 16px;
+    color: #555;
+    margin: 10px 0;
+}
+
+.main-close-btn, .admin-login-btn, .admin-cancel-btn {
+    background-color: #FF6B6B;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    padding: 10px 16px;
+    font-size: 16px;
+}
+
+.admin-login-btn {
+    background-color: #0072CE;
+}
+
+.main-close-btn:hover, .admin-cancel-btn:hover {
+    background-color: #FF4D4D;
+}
+
+.admin-login-btn:hover {
+    background-color: #005EA6;
+}
+
+.main-section-info img {
+    margin-top: 15px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.main-footer-text {
+    margin-top: 5px;
+    font-size: 12px;
+    color: #f0f0f0;
+    font-weight: 550;
+    text-align: center;
+    text-shadow: 2px 2px 8px #a454ff;
+}
+
+.p {
+    margin-top: 10px;
+    font-size: 12px;
+    color: #f0f0f0;
+    text-shadow: 2px 2px 10px #a454ff;
+    font-weight: 550;
+}
+
+.p2 {
+    font-size: 12px;
+    color: #f0f0f0;
+    text-shadow: 2px 2px 10px #a454ff;
+    font-weight: 550;
+}
+
+/* 관리자 버튼 스타일 */
+.admin-button-container {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    z-index: 5;
+}
+
+.admin-btn {
+    background-color: #FF6B6B;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.admin-btn:hover {
+    background-color: #FF4D4D;
+}
+
+/* 관리자 로그인 폼 */
+.admin-login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+}
+
+.admin-login-form input {
+    width: 100%;
+    height: 40px;
+    border: 2px solid #0072CE;
+    border-radius: 8px;
+    padding: 0 15px;
+    font-size: 16px;
+    outline: none;
+}
+
+.admin-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.admin-login-error {
+    color: #FF4D4D;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+/* 반응형 설정 */
+@media (max-width: 768px) {
+    .main-header h1 {
+        font-size: 22px;
+    }
+    .main-search-form input {
+        font-size: 14px;
+        height: 40px;
+    }
+    .search-btn {
+        font-size: 14px;
+    }
+    .btn {
+        font-size: 16px;
+        padding: 10px 16px;
+    }
+    .main-result-item {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+    .main-footer-text {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .main-header h1 {
+        font-size: 24px;
+    }
+    .main-search-form {
+        flex-direction: column;
+        align-items: center;
+    }
+    .main-search-form input {
+        font-size: 14px;
+        height: 40px;
+        padding: 8px 10px;
+        max-width: 90%;
+    }
+    .search-btn {
+        width: 90%;
+        max-width: 320px;
+    }
+    .btn {
+        font-size: 15px;
+        padding: 10px 12px;
+    }
+    .main-result-item {
+        padding: 6px 10px;
+        font-size: 12px;
+    }
+    .main-footer-text {
+        font-size: 13px;
+    }
+    .main-file-select-container select,
+    .main-file-select-container button {
+        width: 100%;
+    }
+    .product-name {
+        font-size: 16px;
+    }
+    .fridge-number,
+    .shelf-position {
+        font-size: 14px;
+    }
+    .location-info {
+        min-width: 100px;
+        line-height: 17px;
+    }
+}

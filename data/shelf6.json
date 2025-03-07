@@ -1,0 +1,245 @@
+{
+    "": [
+      {
+        "heightReference": "위에서부터",
+        "name": "일품오징어",
+        "keywords": ["오징어", "건어물", "안주"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "빠삭어묵칩 매콤한맛",
+        "keywords": ["어묵칩", "매콤", "바삭"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "빠삭어묵칩 오리지널",
+        "keywords": ["어묵칩", "오리지널", "바삭"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "바삭칩",
+        "keywords": ["칩", "바삭"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "그랩바이트 깨바삭칩",
+        "keywords": ["칩", "깨", "바삭"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "일품 도톰육포",
+        "keywords": ["육포", "도톰", "건조육"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "빠삭꾸이칩",
+        "keywords": ["꾸이칩", "바삭", "과자"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "통치즈먹은육포",
+        "keywords": ["육포", "치즈", "건조육"],
+        "height": 1
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "상상육포페퍼앤솔트",
+        "keywords": ["육포", "페퍼앤솔트", "상상"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "상상육포 스테이크",
+        "keywords": ["육포", "스테이크", "상상"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "먹태청양데리야끼",
+        "keywords": ["먹태", "청양", "데리야끼", "안주"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "안주야 오!치즈 바질&토마토",
+        "keywords": ["치즈", "바질", "토마토", "안주"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "안주야 오!치즈 할라피뇨",
+        "keywords": ["치즈", "할라피뇨", "안주"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "리얼쥐포튀김",
+        "keywords": ["쥐포", "튀김", "리얼"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "대구껍질 와사비마요",
+        "keywords": ["껍질", "와사비마요", "대구", "안주"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "빠삭한입먹태",
+        "keywords": ["먹태", "바삭", "안주"],
+        "height": 2
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "블랙타이거새우",
+        "keywords": ["새우", "블랙타이거", "건어물", "안주"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "진미땅콩주머니",
+        "keywords": ["땅콩", "주머니", "스낵", "안주"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "오몬드",
+        "keywords": ["오몬드", "스낵"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "우주의멸치칩 칠리맛",
+        "keywords": ["멸치칩", "칠리", "우주", "바삭"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "우주의멸치칩 와사비맛",
+        "keywords": ["멸치칩", "와사비", "우주", "바삭"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "바삭통육포 오리지널",
+        "keywords": ["육포", "오리지널", "바삭통"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "바삭통윧포 매콤한맛",
+        "keywords": ["육포", "매콤", "바삭통", "안주"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "상상육포 로스트비프",
+        "keywords": ["육포", "로스트비프", "상상"],
+        "height": 3
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "바베큐오징어",
+        "keywords": ["오징어", "바베큐", "안주"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "질러 우육포",
+        "keywords": ["육포", "우육포", "질러"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "질러블랙&레드페퍼육포",
+        "keywords": ["육포", "블랙페퍼", "레드페퍼", "질러"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "킹오쨩",
+        "keywords": ["오쨩", "프리미엄", "안주"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "질러직화육포",
+        "keywords": ["육포", "직화", "질러"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "우주의멸치칩 BBQ 버터",
+        "keywords": ["멸치칩", "BBQ", "버터", "우주"],
+        "height": 4
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "비비고칩 스위트콘",
+        "keywords": ["칩", "스위트콘", "비비고"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "갓구운아귀포",
+        "keywords": ["아귀포", "갓구운", "건어물"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "영화관 버터구이오징어",
+        "keywords": ["오징어", "버터구이", "영화관", "안주"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "상상육포 클래식",
+        "keywords": ["육포", "클래식", "상상"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "바베큐 조미 오징어",
+        "keywords": ["오징어", "바베큐", "조미", "안주"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "일품등심육포",
+        "keywords": ["육포", "등심", "일품"],
+        "height": 5
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "차오수 아오리지",
+        "keywords": ["아오리지", "차오수", "건어물"],
+        "height": 6
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "굿다리",
+        "keywords": ["굿다리", "스낵"],
+        "height": 6
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "세아 오징어육포",
+        "keywords": ["오징어육포", "세아", "안주"],
+        "height": 6
+      },
+      {
+        "heightReference": "위에서부터",
+        "name": "킹오쨩",
+        "keywords": ["오쨩", "프리미엄", "안주"],
+        "height": 6
+      }
+    ]
+  }
+  

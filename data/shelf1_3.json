@@ -1,0 +1,214 @@
+{
+  "": [
+    {
+      "heightReference": "위에서부터",
+      "name": "페레로로쉐 3개입",
+      "keywords": ["초콜릿"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "페레로로쉐 5개입",
+      "keywords": ["초콜릿"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "페레로로쉐 8개입",
+      "keywords": ["초콜릿"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "페레로로쉐 부케 5개입",
+      "keywords": ["초콜릿"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "몽뜨 초콜릿 로맨틱",
+      "keywords": ["초콜릿"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "허쉬 펄즈 다크 초콜릿",
+      "keywords": ["초콜릿"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "허쉬 펄즈 크리미 밀크 초콜릿",
+      "keywords": ["초콜릿"],
+      "height": 1
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "초코빼빼로",
+      "keywords": ["빼빼로"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "아몬드빼빼로",
+      "keywords": ["빼빼로"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "크런키빼빼로",
+      "keywords": ["빼빼로"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "화이트빼빼로",
+      "keywords": ["빼빼로"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "누드빼빼로",
+      "keywords": ["빼빼로"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "트윅스 헤이즐넛",
+      "keywords": ["초콜릿"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "초코비 워터젤리",
+      "keywords": ["젤리"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "피스타치오 초코샌드",
+      "keywords": ["초콜릿"],
+      "height": 2
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "동결구슬젤리",
+      "keywords": ["젤리"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "핑크지구젤리",
+      "keywords": ["젤리"],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "워헤즈큐브즈",
+      "keywords": [],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "워헤즈올",
+      "keywords": [],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "짱시쥬 소다맛",
+      "keywords": [],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "짱시쥬 콜라맛",
+      "keywords": [],
+      "height": 3
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "초코비 초코맛",
+      "keywords": ["초콜릿"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "초코비 딸기맛",
+      "keywords": ["초콜릿"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "동결건조햄버거",
+      "keywords": ["햄버거"],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "로아커 크리스피 카라멜 헤이줄넛",
+      "keywords": [],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "로아커 크리스피 밀크",
+      "keywords": [],
+      "height": 4
+    },
+    {
+      "heightReference": "위에서부터",
+      "name": "로아커 크리스피 다크 초콜릿",
+      "keywords": ["초콜릿"],
+      "height": 4
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "XXXL 웨이퍼 코코아",
+      "keywords": ["웨이퍼"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "XXXL 웨이퍼 화이투",
+      "keywords": ["웨이퍼"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "아기상어 스틱캔디",
+      "keywords": ["캔디"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "스머프코켓 초코콘",
+      "keywords": ["초콜릿"],
+      "height": 3
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "저스티스 딸기크림 쿠키",
+      "keywords": ["쿠키"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "저스티스 바닐라크림 쿠키",
+      "keywords": ["쿠키"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "까먹는 곰모양 젤리 샤인머스캣",
+      "keywords": ["젤리"],
+      "height": 2
+    },
+    {
+      "heightReference": "아래에서부터",
+      "name": "까먹는 곰모양 젤리 애플망고",
+      "keywords": ["젤리"],
+      "height": 2
+    }
+  ]
+}
