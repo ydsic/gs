@@ -463,11 +463,27 @@
         }
       }
 
-      // 검색 버튼 이벤트 리스너
+      // 기존 searchBtn 이벤트 리스너 수정
       searchBtn.addEventListener('click', () => {
         const keyword = searchInput.value.trim();
+
+        // 검색어 저장 API 호출
+        fetch('/api/save-search', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ searchTerm: keyword })
+        })
+        .then(response => {
+          if (!response.ok) {
+            console.error('검색어 저장 실패');
+          }
+        })
+        .catch(err => console.error('검색어 저장 오류:', err));
+
+        // 기존 검색 실행
         performSearch(keyword);
       });
+
       
       // 검색 폼 제출 이벤트 리스너
       const searchForm = document.querySelector('.main-search-form');
