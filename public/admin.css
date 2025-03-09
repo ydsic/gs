@@ -27,7 +27,6 @@ body {
   display: flex;
   justify-content: center;
   gap: 10px;
-  margin-bottom: 10px;
 }
 
 .nav-btn, .home-btn {
@@ -367,7 +366,6 @@ body {
 
 @media (max-width: 480px) {
   .admin-nav {
-    flex-direction: column;
     gap: 5px;
   }
   

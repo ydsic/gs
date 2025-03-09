@@ -237,8 +237,9 @@
     <div class="main-modal-content" role="dialog" aria-labelledby="modal-title">
       <h2 id="modal-title">구역별 이름 및 이미지</h2>
       <div class="main-section-info">
-        <img src="/images/냉장고1.jpg" alt="매장 이미지">
-        <p>준비중</p>
+        <p>확대해서 위치를 확인해보세요.</p>
+        <img src="inside.png" alt="매장 이미지">
+        <p></p>
       </div>
       <button class="btn main-close-btn" id="close-modal">닫기</button>
     </div>
@@ -362,7 +363,7 @@
             <div class="product-name">${product.name || '이름 없음'}</div>
             <div class="location-info">
               <div class="fridge-number">${product.fridge || '새로 들어왔어요!'}</div>
-              <div class="shelf-position">${heightDescription}</div>
+              <div class="shelf-position">${heightDescription} ${product.height}번째 칸</div>
             </div>
           `;
           resultsContainer.appendChild(itemDiv);

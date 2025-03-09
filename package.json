@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "dotenv": "^16.4.7",
-    "mongodb": "^5.9.2"
+    "mongodb": "^5.9.2",
+    "raw-body": "^3.0.0"
   },
   "devDependencies": {
     "vercel": "^31.0.1"

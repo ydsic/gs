@@ -92,8 +92,8 @@
     .section-cards {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 20px;
-      margin-top: 20px;
+      gap: 10px;
+      margin-top: 10px;
     }
 
     .section-card {
@@ -126,21 +126,22 @@
     .section-detail {
       background-color: white;
       border-radius: 8px;
-      padding: 20px;
+      padding: 10px;
       margin-top: 20px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 
     .section-detail-header {
       display: flex;
-      justify-content: space-between;
+      justify-content: space-around;
       align-items: center;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
 
     .section-detail-header h2 {
       color: #0072CE;
       margin: 0;
+      font-size: 18px;
     }
 
     .back-to-sections {
@@ -178,30 +179,29 @@
     .products-list {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-      gap: 15px;
+      gap: 3px;
     }
 
     .product-item {
+      display: flex;
+      justify-content: space-between;     
       background-color: white;
-      padding: 12px;
+      padding: 5px;
       border-radius: 4px;
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     }
 
     .product-item h4 {
-      margin: 0 0 10px 0;
       color: #0072CE;
-      font-size: 16px;
+      font-size: 14px;
     }
 
     .product-item-actions {
-      display: flex;
-      gap: 10px;
-      margin-top: 10px;
+      gap: 5px;
     }
 
     .edit-item-btn, .delete-item-btn {
-      padding: 6px 10px;
+      padding: 3px 6px;
       border: none;
       border-radius: 4px;
       font-size: 12px;
@@ -261,10 +261,9 @@
       background-color: #4CAF50;
       color: white;
       border: none;
-      padding: 10px 15px;
+      padding: 8px 12px;
       border-radius: 4px;
       cursor: pointer;
-      margin-top: 15px;
       font-weight: bold;
     }
 
@@ -278,6 +277,7 @@
       color: #666;
       font-style: italic;
     }
+
   </style>
 </head>
 <body>
@@ -321,9 +321,7 @@
         <div id="sections-view">
           <div class="section-cards" id="section-cards-container">
             <!-- 구역 카드는 JavaScript로 동적 생성 -->
-            <div class="section-card">
-              <h3>1번 냉장고</h3>
-              <div class="item-count">12개 상품</div>
+
             </div>
             <!-- 더 많은 카드가 여기에 추가됨 -->
           </div>
@@ -334,7 +332,10 @@
           <div class="section-detail">
             <div class="section-detail-header">
               <h2 id="current-section-name">1번 냉장고</h2>
-              <button class="back-to-sections" id="back-to-sections-btn">구역 목록으로</button>
+              <button class="back-to-sections" id="back-to-sections-btn">뒤로가기</button>
+              <button class="add-product-btn" id="add-to-section-btn">
+                <span>+</span>상품 추가
+              </button>
             </div>
             <div class="section-detail-content">
               <!-- 위치별 상품 그룹은 JavaScript로 동적 생성 -->
@@ -353,9 +354,6 @@
               </div>
               <!-- 더 많은 위치 그룹이 여기에 추가됨 -->
             </div>
-            <button class="add-product-btn" id="add-to-section-btn">
-              <span>+</span> 이 구역에 상품 추가
-            </button>
           </div>
         </div>
       </section>
@@ -1015,11 +1013,11 @@
         // 이벤트 리스너 - 구역 목록으로 돌아가기
         backToSectionsBtn.addEventListener('click', showSectionsList);
         
-        // 이벤트 리스너 - 검색
+        // 관리자 검색 버튼 이벤트 리스너 (기존 adminSearchBtn 이벤트 수정)
         adminSearchBtn.addEventListener('click', async () => {
           const searchQuery = adminSearch.value.trim();
           if (!searchQuery) {
-            // 검색어가 없으면 모든 구역 표시
+            // 검색어가 없으면 모든 구역을 로드 (기존 동작)
             await loadFridges();
             return;
           }
@@ -1033,25 +1031,58 @@
             
             const searchResults = await response.json();
             
-            if (searchResults.length === 0) {
-              sectionCardsContainer.innerHTML = '<div class="no-items-message">검색 결과가 없습니다.</div>';
-              return;
-            }
+            // 기존에는 구역 카드로 렌더링했지만,
+            // 여기서는 검색 결과(상품 데이터)를 직접 렌더링합니다.
+            renderProductList(searchResults);
             
-            // 검색 결과가 있는 구역만 필터링
-            const sectionsInResults = [...new Set(searchResults.map(product => product.fridge))];
-            
-            // 해당 구역만 표시
-            const filteredFridges = fridgeOptions.filter(fridge => 
-              sectionsInResults.includes(fridge.name)
-            );
-            
-            renderSectionCards(filteredFridges);
           } catch (error) {
             console.error('검색 오류:', error);
             sectionCardsContainer.innerHTML = `<div class="error-message">검색 중 오류가 발생했습니다: ${error.message}</div>`;
           }
         });
+
+        // 새로운 함수: 검색 결과(상품 데이터)를 리스트로 렌더링하는 함수
+function renderProductList(products) {
+  // 기존 구역 카드 컨테이너를 재사용하여 결과를 표시
+  sectionCardsContainer.innerHTML = '';
+  
+  if (!products || products.length === 0) {
+    sectionCardsContainer.innerHTML = '<div class="no-items-message">검색 결과가 없습니다.</div>';
+    return;
+  }
+  
+  products.forEach(product => {
+    const productItem = document.createElement('div');
+    productItem.className = 'product-item';
+    
+    // 위치 설명 (예: "위에서부터 3번째 칸" 또는 위치 정보 없음)
+    const heightDescription = product.height 
+      ? `${product.heightReference || '위에서부터'} ${product.height}번째 칸`
+      : (product.heightReference || '위치 정보 없음');
+    
+    productItem.innerHTML = `
+      <h4>${product.name || '이름 없음'}</h4>
+      <div class="location-info">
+        <div class="fridge-number">${product.fridge || '구역 없음'}</div>
+        <div class="shelf-position">${heightDescription}</div>
+      </div>
+      <div class="product-item-actions">
+        <button class="edit-item-btn">수정</button>
+        <button class="delete-item-btn">삭제</button>
+      </div>
+    `;
+    
+    // 수정 버튼 이벤트 (이미 구현된 openEditModal 함수 호출)
+    const editBtn = productItem.querySelector('.edit-item-btn');
+    editBtn.addEventListener('click', () => openEditModal(product));
+    
+    // 삭제 버튼 이벤트 (이미 구현된 openDeleteModal 함수 호출)
+    const deleteBtn = productItem.querySelector('.delete-item-btn');
+    deleteBtn.addEventListener('click', () => openDeleteModal(product));
+    
+    sectionCardsContainer.appendChild(productItem);
+  });
+}
         
         // 이벤트 리스너 - 검색 필드 엔터키
         adminSearch.addEventListener('keypress', (e) => {

@@ -5,8 +5,26 @@
     { "src": "api/**/*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/api/(.*)", "dest": "/api/$1" },
+    {
+      "src": "/api/delete-product/(?<id>[^/]+)$",
+      "dest": "/api/delete-product/[id].js"
+    },
+    {
+      "src": "/api/update-product/(?<id>[^/]+)$",
+      "dest": "/api/update-product/[id].js"
+    },
+    {
+      "src": "/api/new-products/?",
+      "dest": "/api/new-products/index.js"
+    },
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/$1"
+    },
     { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "/public/$1" }
+    {
+      "src": "/(.*)",
+      "dest": "/public/$1"
+    }
   ]
 }
