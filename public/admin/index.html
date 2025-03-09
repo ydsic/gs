@@ -17,22 +17,26 @@
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
       text-align: center;
     }
+    
     .login-container h1 {
       color: #0072CE;
       margin-bottom: 20px;
       font-size: 24px;
     }
+    
     .login-form {
       display: flex;
       flex-direction: column;
       gap: 15px;
     }
+    
     .login-form input {
       padding: 12px;
       border: 1px solid #ddd;
       border-radius: 4px;
       font-size: 16px;
     }
+    
     .login-form button {
       padding: 12px;
       background: #0072CE;
@@ -43,14 +47,17 @@
       cursor: pointer;
       transition: background 0.3s;
     }
+    
     .login-form button:hover {
       background: #005EA6;
     }
+    
     .login-error {
       color: #FF5252;
       font-size: 14px;
       min-height: 20px;
     }
+    
     .home-link {
       color: #0072CE;
       text-decoration: none;
@@ -58,9 +65,11 @@
       margin-top: 10px;
       display: inline-block;
     }
+    
     .home-link:hover {
       text-decoration: underline;
     }
+    
     /* 로그아웃 버튼 */
     .logout-btn {
       background-color: #FF6B6B;
@@ -74,9 +83,11 @@
       right: 10px;
       top: 10px;
     }
+    
     .logout-btn:hover {
       background-color: #FF4D4D;
     }
+
     /* 구역 카드 스타일 */
     .section-cards {
       display: grid;
@@ -84,6 +95,7 @@
       gap: 10px;
       margin-top: 10px;
     }
+
     .section-card {
       background-color: #f9f9f9;
       border-radius: 8px;
@@ -92,20 +104,24 @@
       cursor: pointer;
       transition: transform 0.2s, box-shadow 0.2s;
     }
+
     .section-card:hover {
       transform: translateY(-3px);
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     }
+
     .section-card h3 {
       color: #0072CE;
       margin-bottom: 10px;
       padding-bottom: 5px;
       border-bottom: 1px solid #ddd;
     }
+
     .section-card .item-count {
       font-size: 14px;
       color: #666;
     }
+
     /* 구역 상세 뷰 */
     .section-detail {
       background-color: white;
@@ -114,17 +130,20 @@
       margin-top: 20px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
+
     .section-detail-header {
       display: flex;
       justify-content: space-around;
       align-items: center;
       margin-bottom: 10px;
     }
+
     .section-detail-header h2 {
       color: #0072CE;
       margin: 0;
       font-size: 18px;
     }
+
     .back-to-sections {
       background-color: #0072CE;
       color: white;
@@ -134,9 +153,11 @@
       cursor: pointer;
       font-size: 14px;
     }
+
     .back-to-sections:hover {
       background-color: #005EA6;
     }
+
     /* 위치별 상품 그룹 */
     .position-group {
       margin-bottom: 25px;
@@ -144,6 +165,7 @@
       padding: 15px;
       border-radius: 6px;
     }
+
     .position-group h3 {
       color: #333;
       margin-top: 0;
@@ -152,12 +174,14 @@
       border-bottom: 1px solid #ddd;
       padding-bottom: 8px;
     }
+
     /* 상품 아이템 리스트 */
     .products-list {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
       gap: 3px;
     }
+
     .product-item {
       display: flex;
       justify-content: space-between;     
@@ -166,13 +190,16 @@
       border-radius: 4px;
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     }
+
     .product-item h4 {
       color: #0072CE;
       font-size: 14px;
     }
+
     .product-item-actions {
       gap: 5px;
     }
+
     .edit-item-btn, .delete-item-btn {
       padding: 3px 6px;
       border: none;
@@ -180,40 +207,51 @@
       font-size: 12px;
       cursor: pointer;
     }
+
     .edit-item-btn {
       background-color: #FFC107;
       color: #333;
     }
+
     .delete-item-btn {
       background-color: #FF5252;
       color: white;
     }
+
     .edit-item-btn:hover {
       background-color: #FFB300;
     }
+
     .delete-item-btn:hover {
       background-color: #FF1744;
     }
+
     /* 스크롤 스타일 */
     .section-detail-content {
       max-height: 70vh;
       overflow-y: auto;
       padding-right: 10px;
     }
+
+    /* 스크롤바 스타일 */
     .section-detail-content::-webkit-scrollbar {
       width: 8px;
     }
+
     .section-detail-content::-webkit-scrollbar-track {
       background: #f1f1f1;
       border-radius: 10px;
     }
+
     .section-detail-content::-webkit-scrollbar-thumb {
       background: #0072CE;
       border-radius: 10px;
     }
+
     .section-detail-content::-webkit-scrollbar-thumb:hover {
       background: #005EA6;
     }
+
     /* 새 상품 추가 버튼 */
     .add-product-btn {
       display: flex;
@@ -228,16 +266,19 @@
       cursor: pointer;
       font-weight: bold;
     }
+
     .add-product-btn:hover {
       background-color: #43A047;
     }
+
     .no-items-message {
       text-align: center;
       padding: 20px;
       color: #666;
       font-style: italic;
     }
-    /* 모달 기본 스타일 (기존 모달과 유사) */
+    
+    /* 모달 기본 스타일 */
     .modal {
       display: none;
       position: fixed;
@@ -248,6 +289,7 @@
       align-items: center;
       z-index: 200;
     }
+    
     .modal .modal-content {
       background: white;
       padding: 20px;
@@ -387,34 +429,41 @@
         <h2>상품 수정</h2>
         <form id="edit-form" class="admin-form">
           <input type="hidden" id="edit-id" name="id">
+          
           <div class="form-group">
             <label for="edit-name">상품명*</label>
             <input type="text" id="edit-name" name="name" required>
           </div>
+          
           <div class="form-group">
             <label for="edit-fridge">구역*</label>
             <select id="edit-fridge" name="fridge" required>
               <!-- 구역 옵션은 JavaScript로 동적 생성 -->
             </select>
           </div>
+          
           <div class="form-group">
             <label for="edit-height-ref">위치 기준</label>
             <input type="text" id="edit-height-ref" name="heightReference">
           </div>
+          
           <div class="form-group">
             <label for="edit-height">높이 위치 (번째 칸)</label>
             <input type="number" id="edit-height" name="height" min="1">
           </div>
+          
           <div class="form-group">
             <label for="edit-keywords">검색 키워드 (쉼표로 구분)</label>
             <input type="text" id="edit-keywords" name="keywords">
           </div>
+          
           <div class="form-group">
             <label for="edit-is-new">
               <input type="checkbox" id="edit-is-new" name="isNew">
               새 상품으로 표시
             </label>
           </div>
+          
           <div class="form-actions">
             <button type="submit" class="btn primary-btn">변경사항 저장</button>
             <button type="button" class="btn" id="cancel-edit">취소</button>
@@ -441,12 +490,11 @@
       <div class="modal-content">
         <h2>검색 기록</h2>
         <div id="search-logs-content">
-          <!-- 저장된 검색 기록이 여기에 동적 생성됩니다 -->
+          <!-- 저장된 검색 기록이 동적 생성됩니다 -->
         </div>
         <button class="btn" id="close-search-logs-btn">닫기</button>
       </div>
     </div>
-
   </div>
 
   <script>
@@ -544,7 +592,7 @@
         const searchLogsModal = document.getElementById('search-logs-modal');
         const searchLogsContent = document.getElementById('search-logs-content');
         const closeSearchLogsBtn = document.getElementById('close-search-logs-btn');
-        // 새로 추가된 "검색 기록" 버튼
+        // "검색 기록" 버튼
         const viewSearchLogsBtn = document.getElementById('view-search-logs-btn');
         
         // 탭 전환 함수
@@ -711,9 +759,7 @@
           document.getElementById('edit-height-ref').value = product.heightReference || '위에서부터';
           document.getElementById('edit-height').value = product.height || '';
           document.getElementById('edit-is-new').checked = product.isNew || false;
-          const keywordsStr = product.keywords && Array.isArray(product.keywords) 
-            ? product.keywords.join(', ') 
-            : '';
+          const keywordsStr = product.keywords && Array.isArray(product.keywords) ? product.keywords.join(', ') : '';
           document.getElementById('edit-keywords').value = keywordsStr;
           const fridgeSelect = document.getElementById('edit-fridge');
           for (let i = 0; i < fridgeSelect.options.length; i++) {
@@ -736,54 +782,58 @@
           deleteModal.style.display = 'none';
         }
         
-        // 새로 추가된 함수: 검색 기록 불러오기
-        async function loadSearchLogs() {
+        async function addProduct(productData) {
           try {
-            const response = await fetch('/api/get-searches');
-            if (!response.ok) {
-              throw new Error(`검색 기록을 불러오는데 실패했습니다: ${response.status}`);
-            }
-            const logs = await response.json();
-            return logs;
-          } catch (error) {
-            console.error('검색 기록 로드 오류:', error);
-            return [];
-          }
-        }
-        
-        // 새로 추가된 함수: 검색 기록 모달 렌더링
-        async function showSearchLogsModal() {
-          const logs = await loadSearchLogs();
-          searchLogsContent.innerHTML = '';
-          if (!logs || logs.length === 0) {
-            searchLogsContent.innerHTML = '<p>저장된 검색 기록이 없습니다.</p>';
-          } else {
-            const list = document.createElement('ul');
-            logs.forEach(log => {
-              const listItem = document.createElement('li');
-              listItem.textContent = `${log.searchTerm} - ${new Date(log.createdAt).toLocaleString()}`;
-              list.appendChild(listItem);
+            const response = await fetch('/api/add-product', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify(productData)
             });
-            searchLogsContent.appendChild(list);
+            if (!response.ok) {
+              const errorData = await response.json();
+              throw new Error(errorData.message || '상품 추가에 실패했습니다.');
+            }
+            return await response.json();
+          } catch (error) {
+            console.error('상품 추가 오류:', error);
+            throw error;
           }
-          searchLogsModal.style.display = 'flex';
-          searchLogsModal.setAttribute('aria-hidden', 'false');
         }
         
-        // 새로 추가된 모달 닫기 함수
-        function closeSearchLogsModal() {
-          searchLogsModal.style.display = 'none';
-          searchLogsModal.setAttribute('aria-hidden', 'true');
+        async function updateProduct(id, productData) {
+          try {
+            const response = await fetch(`/api/update-product/${id}`, {
+              method: 'PUT',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify(productData)
+            });
+            if (!response.ok) {
+              const errorData = await response.json();
+              throw new Error(errorData.message || '상품 수정에 실패했습니다.');
+            }
+            return await response.json();
+          } catch (error) {
+            console.error('상품 수정 오류:', error);
+            throw error;
+          }
         }
         
-        // "검색 기록" 버튼 클릭 이벤트 추가
-        viewSearchLogsBtn.addEventListener('click', () => {
-          showSearchLogsModal();
-        });
+        async function deleteProduct(id) {
+          try {
+            const response = await fetch(`/api/delete-product/${id}`, {
+              method: 'DELETE'
+            });
+            if (!response.ok) {
+              const errorData = await response.json();
+              throw new Error(errorData.message || '상품 삭제에 실패했습니다.');
+            }
+            return await response.json();
+          } catch (error) {
+            console.error('상품 삭제 오류:', error);
+            throw error;
+          }
+        }
         
-        closeSearchLogsBtn.addEventListener('click', closeSearchLogsModal);
-        
-        // 이벤트 리스너 - 구역에 상품 추가 버튼
         addToSectionBtn.addEventListener('click', () => {
           if (currentSection) {
             const fridgeSelect = document.getElementById('product-fridge');
@@ -936,6 +986,53 @@
             adminSearchBtn.click();
           }
         });
+        
+        // 새로 추가된 함수: 검색 기록 불러오기
+        async function loadSearchLogs() {
+          try {
+            const response = await fetch('/api/get-searches');
+            if (!response.ok) {
+              throw new Error(`검색 기록을 불러오는데 실패했습니다: ${response.status}`);
+            }
+            const logs = await response.json();
+            return logs;
+          } catch (error) {
+            console.error('검색 기록 로드 오류:', error);
+            return [];
+          }
+        }
+        
+        // 새로 추가된 함수: 검색 기록 모달 표시
+        async function showSearchLogsModal() {
+          const logs = await loadSearchLogs();
+          searchLogsContent.innerHTML = '';
+          if (!logs || logs.length === 0) {
+            searchLogsContent.innerHTML = '<p>저장된 검색 기록이 없습니다.</p>';
+          } else {
+            const list = document.createElement('ul');
+            logs.forEach(log => {
+              const listItem = document.createElement('li');
+              listItem.textContent = `${log.searchTerm} - ${new Date(log.createdAt).toLocaleString()}`;
+              list.appendChild(listItem);
+            });
+            searchLogsContent.appendChild(list);
+          }
+          searchLogsModal.style.display = 'flex';
+          searchLogsModal.setAttribute('aria-hidden', 'false');
+        }
+        
+        // 새로 추가된 함수: 검색 기록 모달 닫기
+        function closeSearchLogsModal() {
+          searchLogsModal.style.display = 'none';
+          searchLogsModal.setAttribute('aria-hidden', 'true');
+        }
+        
+        // "검색 기록" 버튼 이벤트
+        viewSearchLogsBtn.addEventListener('click', () => {
+          showSearchLogsModal();
+        });
+        
+        closeSearchLogsBtn.addEventListener('click', closeSearchLogsModal);
         
         async function init() {
           await Promise.all([loadFridges(), loadProducts()]);
